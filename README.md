@@ -1,13 +1,10 @@
-# Previsão de Churn com Machine Learning
+# Previsão da Idade de Abalones com Machine Learning
 
-
-O churn rate, ou simplesmente churn, é uma métrica que representa a taxa de evasão da sua base de clientes. Em outras palavras, ele indica quantos clientes cancelaram seus serviços em relação ao número total de clientes ativos em um determinado período de tempo. Essa métrica é especialmente importante para empresas que oferecem serviços por assinatura, como é o caso da Spotify e da Netflix.
-
-Em serviços como esses, o churn rate representa a taxa de cancelamento de assinaturas por parte dos usuários. Isso é relevante,porque em modelos de negócio baseados em assinaturas, a receita da empresa depende diretamente do número de clientes ativos. Se muitos clientes cancelam suas assinaturas, a empresa pode sofrer uma queda na receita e no crescimento do negócio.
+O Abalone é um molusco gastrópode descrito por Linnaeus em 1758. Pertence à família Haliotidae e é encontrado em diversas espécies nas águas costeiras de quase todo o mundo. Os abalones possuem características anatômicas primitivas, como simetria bilateral. As espécies mais jovens geram milhares de ovos nos anos iniciais de reprodução, mas quando ficam mais velhos e maiores, eles geram milhões. Apesar desse alto número de ovos, as conchas menores sofrem uma taxa de mortalidade de 60% a 99%.
 
 <p align=center>
-<img src="https://t4.ftcdn.net/jpg/00/10/96/53/360_F_10965318_PRRHOB8Wxbp8RCQx0jyhaUxlKZCuxJpC.jpg" width="60%"></p>
+<img src="https://github.com/user-attachments/assets/97159466-0a19-4384-b69e-0773e7ef2637" width="45%"></p>
 
-**Churn** também pode ser usado para identificar potenciais cancelamentos, com um tempo de antecedência, e promover ações direcionadas para tentar reter tais clientes. Essa métrica deve receber atenção pelo fato de que o Custo de Aquisição de Cliente (CAC) é normalmente mais alto que o custo para mantê-los. Ou seja, um alto valor para o *churn rate* é o que não desejamos. Neste projeto, o objetivo é criar um modelo que seja capaz de identificar com os clientes que têm maior probabilidade de cancelar seus serviços.
+A idade do abalone é essencial para sua gestão sustentável, pois evita a captura de indivíduos que ainda não se reproduziram. No entanto, não é possível determinar a idade apenas pela aparência externa; o método tradicional (contagem dos anéis na concha) é demorado e destrutivo. Este projeto propõe um modelo de machine learning para prever a idade dos abalones com base em características físicas como comprimento, altura, diâmetro e peso.
 
-Confira o projeto completo através deste link: http://bit.ly/4lbbcr8
+Confira o projeto completo através deste link: http://bit.ly/46lAeip
