@@ -5,6 +5,6 @@ O Abalone é um molusco gastrópode descrito por Linnaeus em 1758. Pertence à f
 <p align=center>
 <img src="https://github.com/user-attachments/assets/97159466-0a19-4384-b69e-0773e7ef2637" width="50%"></p>
 
-A idade do abalone é essencial para sua gestão sustentável, pois evita a captura de indivíduos que ainda não se reproduziram. No entanto, não é possível determinar a idade apenas pela aparência externa; o método tradicional (contagem dos anéis na concha) é demorado e destrutivo. Este projeto propõe um modelo de machine learning para prever a idade dos abalones com base em características físicas como comprimento, altura, diâmetro e peso.
+A idade do abalone está diretamente ligada ao seu ciclo de vida e reprodutivo. Saber a idade ajuda na gestão sustentável das populações de abalone, evitando a captura de espécimes jovens que ainda não se reproduziram. No entanto, a idade dos abalones não pode ser facilmente determinada apenas observando sua aparência externa. Tradicionalmente, a idade é estimada contando os anéis de crescimento em sua concha. O objetivo deste projeto é criar um modelo de machine learning capaz de prever a idade dos abalones com base em suas características físicas, como comprimento, altura, diâmetro, peso do músculo etc.
 
 Confira o projeto completo através deste link: http://bit.ly/46lAeip
